@@ -48,7 +48,7 @@ also available, including those optimized for specific types of computers or app
 use on notebook computers or routers), those for specific languages or countries (e.g., Polish or
 Chinese) and ultra-miniature distributions (some of which can even fit on just a single floppy
 disk, such as muLinux).
-Tools used
+Tools used :
 For implementing a custom System Calls:
  C language
  linux shell
